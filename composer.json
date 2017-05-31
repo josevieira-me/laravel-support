@@ -3,8 +3,10 @@
   "description": "My support meta-package.",
   "type": "library",
   "require": {
-    "laravel/laravel": "~5.4",
-    "laravelcollective/html": "~5.4"
+    "illuminate/routing": "~5.4"
+  },
+  "require-dev": {
+    "fzaninotto/faker": "~1.4"
   },
   "license": "MIT",
   "authors": [
