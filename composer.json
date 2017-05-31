@@ -3,7 +3,8 @@
   "description": "My support meta-package.",
   "type": "library",
   "require": {
-    "illuminate/routing": "~5.4"
+    "illuminate/routing": "~5.4",
+    "artesaos/migrator": "~1.2"
   },
   "require-dev": {
     "fzaninotto/faker": "~1.4"
