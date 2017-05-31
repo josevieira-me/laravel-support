@@ -1,0 +1,21 @@
+{
+  "name": "josevieirame/laravel-support",
+  "description": "My support meta-package.",
+  "type": "library",
+  "require": {
+    "laravel/laravel": "~5.4"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jose Vieira",
+      "email": "hello@josevieira.me"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Josevieirame\\Support\\": "src"
+    }
+  },
+  "minimum-stability": "stable"
+}
